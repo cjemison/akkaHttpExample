@@ -33,6 +33,6 @@
 
     <root level="info" additivity="false">
         <appender-ref ref="File"/>
-        <!--  <appender-ref ref="STDOUT"/> -->
+        <appender-ref ref="STDOUT"/>
     </root>
 </configuration>
